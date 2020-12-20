@@ -97,7 +97,7 @@
 /*home section styling*/
 .home{
     display: flex;
-    background: url("imagenes/1.jpg") no-repeat center;
+    background: url("imagenes1/1.jpg") no-repeat center;
     background-color: rgb(80,100,100);
     background-blend-mode: soft-light;
     background-size:cover;
